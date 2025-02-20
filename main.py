@@ -7,7 +7,7 @@ st.set_page_config(page_title= "Data sweeper", layout='wide' )
 
 #custom CSS
 
-st.markdwon(
+st.markdown(
 """
 <style>
 .stApp{
